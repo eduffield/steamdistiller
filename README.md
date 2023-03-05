@@ -22,7 +22,7 @@ sudo pip install pyshark html5lib bs4
 sudo python3 steamdistill.py [-h] [-w]
 ```
 options:
-  -h, --help  show this help message and exit
-  -w          Writes results a file named log.txt
+-h          shows the help message and exits,
+-w          writes results a file named log.txt
 ## Screenshots
 ![Example](https://eduffield.github.io/images/screen.png)
