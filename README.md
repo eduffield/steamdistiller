@@ -1,6 +1,6 @@
 # SteamDistiller
 Python script for sniffing Steam IHS Discovery Packets.
-The script must be launched as superuser, be sure to install any dependencies as superuser.
+The script must be launched with root, be sure to install any dependencies with superuser.
 
 ## System Requirements
 This script uses python3, wireshark, and tshark. The following command can install each on a Debian-based system.
