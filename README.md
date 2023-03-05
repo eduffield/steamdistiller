@@ -25,4 +25,4 @@ options:
 -h          shows the help message and exits,
 -w          writes results a file named log.txt
 ## Screenshots
-![Example]
+![Example](https://eduffield.github.io/images/screen.png)
